@@ -1,0 +1,23 @@
+.bi {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 3px;
+    }
+
+.dropdown {
+        position: relative;
+        display: inline-block;
+        vertical-align: middle;
+    }
+
+.form-floating {
+    width:60%;
+    margin:0 auto;
+    margin-top: 20px;
+}
+
+.sendbutton {
+    margin-top: 40px;
+    margin-bottom: 300px;
+}

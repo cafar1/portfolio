@@ -1,0 +1,35 @@
+.bi {
+display: flex;
+justify-content: center;
+align-items: center;
+padding-bottom: 3px;
+}
+
+.img-fluid {
+    height: 165px;
+    width: 190px;
+    left: 30px;
+    margin-top: 15px;
+    margin-left: 30px;
+    position: relative;
+}
+
+input.largerCheckbox {
+    width: 40px;
+    height: 40px;
+    margin-left: 900px;
+    position: relative;
+    bottom: 100px;
+    padding-bottom: 400px;
+    border-bottom: 150px;
+}
+
+hr {
+    width:80%;
+    margin:0 auto;
+}
+
+button {
+    margin-top: 80px;
+    margin-bottom: 50px;
+}
